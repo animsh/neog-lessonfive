@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+input[type="text"] {
+  width: 480px;
+  padding: 1rem;
+  font-size: large;
+  text-align: center;
+}
+
+li {
+  list-style: none;
+  display: inline;
+  margin: 1rem;
+  cursor: pointer;
+  font-size: 1.4rem;
+}
+
+h4 {
+  height: 1rem;
+}
